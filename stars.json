@@ -1,13 +1,13 @@
 [
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 78556,
+    "stargazers_count": 78928,
     "open_issues_count": 13,
-    "forks_count": 10491
+    "forks_count": 10540
   },
   {
     "full_name": "imbhargav5/rooks",
-    "stargazers_count": 2534,
+    "stargazers_count": 2543,
     "open_issues_count": 20,
     "forks_count": 187
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 2248,
+    "stargazers_count": 2271,
     "open_issues_count": 14,
-    "forks_count": 179
+    "forks_count": 181
   },
   {
     "full_name": "hokagedemehin/hot",
@@ -49,39 +49,39 @@
   },
   {
     "full_name": "michalsnik/aos",
-    "stargazers_count": 21395,
+    "stargazers_count": 21432,
     "open_issues_count": 309,
-    "forks_count": 2302
+    "forks_count": 2306
   },
   {
     "full_name": "Evavic44/portfolio-ideas",
-    "stargazers_count": 1139,
+    "stargazers_count": 1154,
     "open_issues_count": 2,
-    "forks_count": 221
+    "forks_count": 227
   },
   {
     "full_name": "rzashakeri/beautify-github-profile",
-    "stargazers_count": 8575,
-    "open_issues_count": 0,
-    "forks_count": 333
+    "stargazers_count": 8594,
+    "open_issues_count": 1,
+    "forks_count": 334
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 90417,
-    "open_issues_count": 1710,
-    "forks_count": 24371
+    "stargazers_count": 90489,
+    "open_issues_count": 1713,
+    "forks_count": 24393
   },
   {
     "full_name": "mui/material-ui",
-    "stargazers_count": 81368,
-    "open_issues_count": 1240,
-    "forks_count": 28035
+    "stargazers_count": 81430,
+    "open_issues_count": 1261,
+    "forks_count": 28065
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 81932,
-    "open_issues_count": 906,
-    "forks_count": 35869
+    "stargazers_count": 81971,
+    "open_issues_count": 916,
+    "forks_count": 35934
   },
   {
     "full_name": "vonovak/react-navigation-header-buttons",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "shubheksha/companies-sponsoring-visas",
-    "stargazers_count": 1188,
+    "stargazers_count": 1191,
     "open_issues_count": 9,
     "forks_count": 98
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "github/copilot-docs",
-    "stargazers_count": 21342,
+    "stargazers_count": 21347,
     "open_issues_count": 19,
-    "forks_count": 2382
+    "forks_count": 2381
   },
   {
     "full_name": "hokagedemehin/ibkdocs",
@@ -121,27 +121,27 @@
   },
   {
     "full_name": "bdougie/take-action",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 2,
     "forks_count": 15
   },
   {
     "full_name": "amannn/action-semantic-pull-request",
-    "stargazers_count": 415,
+    "stargazers_count": 417,
     "open_issues_count": 12,
     "forks_count": 63
   },
   {
     "full_name": "actions/first-interaction",
-    "stargazers_count": 467,
-    "open_issues_count": 48,
-    "forks_count": 249
+    "stargazers_count": 470,
+    "open_issues_count": 49,
+    "forks_count": 250
   },
   {
     "full_name": "troxler/awesome-css-frameworks",
-    "stargazers_count": 5274,
+    "stargazers_count": 5289,
     "open_issues_count": 4,
-    "forks_count": 358
+    "forks_count": 359
   },
   {
     "full_name": "hokagedemehin/lola-adeoti-new-backend",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 23852,
+    "stargazers_count": 24111,
     "open_issues_count": 6,
-    "forks_count": 5892
+    "forks_count": 5947
   },
   {
     "full_name": "colbyfayock/demo-image-upload-starter",
     "stargazers_count": 6,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 18133,
-    "open_issues_count": 45,
-    "forks_count": 10075
+    "stargazers_count": 18212,
+    "open_issues_count": 49,
+    "forks_count": 10139
   },
   {
     "full_name": "markodenic/web-development-resources",
-    "stargazers_count": 4532,
-    "open_issues_count": 17,
+    "stargazers_count": 4543,
+    "open_issues_count": 18,
     "forks_count": 800
   }
 ]
