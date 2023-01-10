@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "tolu360/react-native-paystack",
+    "stargazers_count": 131,
+    "open_issues_count": 28,
+    "forks_count": 40
+  },
+  {
     "full_name": "BalogunofAfrica/expo-templates",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -7,27 +13,27 @@
   },
   {
     "full_name": "emeraldsanto/react-native-encrypted-storage",
-    "stargazers_count": 440,
+    "stargazers_count": 441,
     "open_issues_count": 24,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "academind/react-native-practical-guide-code",
-    "stargazers_count": 458,
+    "stargazers_count": 466,
     "open_issues_count": 11,
-    "forks_count": 666
+    "forks_count": 679
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 84259,
+    "stargazers_count": 84718,
     "open_issues_count": 17,
-    "forks_count": 11085
+    "forks_count": 11117
   },
   {
     "full_name": "imbhargav5/rooks",
-    "stargazers_count": 2706,
-    "open_issues_count": 31,
-    "forks_count": 197
+    "stargazers_count": 2710,
+    "open_issues_count": 29,
+    "forks_count": 199
   },
   {
     "full_name": "hokagedemehin/DMA-project",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 2937,
-    "open_issues_count": 17,
-    "forks_count": 279
+    "stargazers_count": 2957,
+    "open_issues_count": 19,
+    "forks_count": 284
   },
   {
     "full_name": "hokagedemehin/hot",
@@ -67,39 +73,39 @@
   },
   {
     "full_name": "michalsnik/aos",
-    "stargazers_count": 22327,
-    "open_issues_count": 317,
-    "forks_count": 2357
+    "stargazers_count": 22361,
+    "open_issues_count": 318,
+    "forks_count": 2359
   },
   {
     "full_name": "Evavic44/portfolio-ideas",
-    "stargazers_count": 1729,
+    "stargazers_count": 1742,
     "open_issues_count": 1,
     "forks_count": 321
   },
   {
     "full_name": "rzashakeri/beautify-github-profile",
-    "stargazers_count": 9154,
+    "stargazers_count": 9171,
     "open_issues_count": 0,
-    "forks_count": 390
+    "forks_count": 393
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 92476,
-    "open_issues_count": 1711,
-    "forks_count": 24994
+    "stargazers_count": 92565,
+    "open_issues_count": 1704,
+    "forks_count": 25022
   },
   {
     "full_name": "mui/material-ui",
-    "stargazers_count": 83724,
-    "open_issues_count": 1284,
-    "forks_count": 28828
+    "stargazers_count": 83792,
+    "open_issues_count": 1296,
+    "forks_count": 28840
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 83651,
-    "open_issues_count": 971,
-    "forks_count": 37617
+    "stargazers_count": 83710,
+    "open_issues_count": 935,
+    "forks_count": 37681
   },
   {
     "full_name": "vonovak/react-navigation-header-buttons",
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "shubheksha/companies-sponsoring-visas",
-    "stargazers_count": 1253,
+    "stargazers_count": 1254,
     "open_issues_count": 9,
-    "forks_count": 102
+    "forks_count": 103
   },
   {
     "full_name": "hokagedemehin/Alt-School-Assignments",
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "github/copilot-docs",
-    "stargazers_count": 21323,
+    "stargazers_count": 21321,
     "open_issues_count": 18,
-    "forks_count": 2363
+    "forks_count": 2367
   },
   {
     "full_name": "hokagedemehin/ibkdocs",
@@ -139,25 +145,25 @@
   },
   {
     "full_name": "bdougie/take-action",
-    "stargazers_count": 39,
+    "stargazers_count": 42,
     "open_issues_count": 2,
     "forks_count": 17
   },
   {
     "full_name": "amannn/action-semantic-pull-request",
-    "stargazers_count": 490,
-    "open_issues_count": 15,
+    "stargazers_count": 491,
+    "open_issues_count": 16,
     "forks_count": 75
   },
   {
     "full_name": "actions/first-interaction",
-    "stargazers_count": 531,
+    "stargazers_count": 538,
     "open_issues_count": 45,
-    "forks_count": 283
+    "forks_count": 287
   },
   {
     "full_name": "troxler/awesome-css-frameworks",
-    "stargazers_count": 5654,
+    "stargazers_count": 5664,
     "open_issues_count": 5,
     "forks_count": 379
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 26426,
-    "open_issues_count": 13,
-    "forks_count": 6513
-  },
-  {
-    "full_name": "colbyfayock/demo-image-upload-starter",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 3
+    "stargazers_count": 26551,
+    "open_issues_count": 9,
+    "forks_count": 6526
   }
 ]
