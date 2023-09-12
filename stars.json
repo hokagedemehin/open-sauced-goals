@@ -1,15 +1,15 @@
 [
   {
     "full_name": "wix/react-native-navigation",
-    "stargazers_count": 12882,
+    "stargazers_count": 12885,
     "open_issues_count": 220,
     "forks_count": 2699
   },
   {
     "full_name": "wix/react-native-ui-lib",
-    "stargazers_count": 5647,
-    "open_issues_count": 71,
-    "forks_count": 675
+    "stargazers_count": 5657,
+    "open_issues_count": 76,
+    "forks_count": 676
   },
   {
     "full_name": "sklarsa/django-sendgrid-v5",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3508,
-    "open_issues_count": 9,
-    "forks_count": 626
+    "stargazers_count": 3519,
+    "open_issues_count": 10,
+    "forks_count": 630
   },
   {
     "full_name": "FiberJW/react-native-app-link",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "ritz078/transform",
-    "stargazers_count": 5989,
+    "stargazers_count": 6000,
     "open_issues_count": 46,
-    "forks_count": 420
+    "forks_count": 424
   },
   {
     "full_name": "TechIsHiring/techishiring-website",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 11297,
+    "stargazers_count": 11309,
     "open_issues_count": 23,
-    "forks_count": 1407
+    "forks_count": 1412
   },
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 183,
-    "open_issues_count": 132,
-    "forks_count": 89
+    "stargazers_count": 188,
+    "open_issues_count": 130,
+    "forks_count": 90
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 42113,
+    "stargazers_count": 42145,
     "open_issues_count": 1,
-    "forks_count": 3874
+    "forks_count": 3876
   },
   {
     "full_name": "typescript-cheatsheets/react-native",
@@ -79,25 +79,25 @@
   },
   {
     "full_name": "emeraldsanto/react-native-encrypted-storage",
-    "stargazers_count": 528,
-    "open_issues_count": 39,
+    "stargazers_count": 530,
+    "open_issues_count": 40,
     "forks_count": 55
   },
   {
     "full_name": "academind/react-native-practical-guide-code",
-    "stargazers_count": 814,
+    "stargazers_count": 820,
     "open_issues_count": 15,
-    "forks_count": 1065
+    "forks_count": 1066
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 94559,
+    "stargazers_count": 94653,
     "open_issues_count": 22,
-    "forks_count": 12221
+    "forks_count": 12238
   },
   {
     "full_name": "imbhargav5/rooks",
-    "stargazers_count": 2980,
+    "stargazers_count": 2986,
     "open_issues_count": 11,
     "forks_count": 211
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 4064,
+    "stargazers_count": 4078,
     "open_issues_count": 20,
-    "forks_count": 418
+    "forks_count": 420
   },
   {
     "full_name": "hokagedemehin/hot",
@@ -133,50 +133,50 @@
   },
   {
     "full_name": "CynthiaPeter/Technical-Writing-Resources",
-    "stargazers_count": 566,
+    "stargazers_count": 567,
     "open_issues_count": 5,
     "forks_count": 121
   },
   {
     "full_name": "michalsnik/aos",
-    "stargazers_count": 24282,
-    "open_issues_count": 339,
-    "forks_count": 2477
+    "stargazers_count": 24299,
+    "open_issues_count": 340,
+    "forks_count": 2480
   },
   {
     "full_name": "Evavic44/portfolio-ideas",
-    "stargazers_count": 2544,
-    "open_issues_count": 5,
-    "forks_count": 406
+    "stargazers_count": 2547,
+    "open_issues_count": 6,
+    "forks_count": 408
   },
   {
     "full_name": "rzashakeri/beautify-github-profile",
-    "stargazers_count": 9916,
+    "stargazers_count": 9922,
     "open_issues_count": 0,
     "forks_count": 454
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 97534,
-    "open_issues_count": 1864,
-    "forks_count": 26811
+    "stargazers_count": 97629,
+    "open_issues_count": 1874,
+    "forks_count": 26845
   },
   {
     "full_name": "mui/material-ui",
-    "stargazers_count": 88511,
-    "open_issues_count": 1602,
-    "forks_count": 30152
+    "stargazers_count": 88709,
+    "open_issues_count": 1595,
+    "forks_count": 30167
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 87474,
-    "open_issues_count": 998,
-    "forks_count": 41497
+    "stargazers_count": 87502,
+    "open_issues_count": 992,
+    "forks_count": 41579
   },
   {
     "full_name": "vonovak/react-navigation-header-buttons",
-    "stargazers_count": 772,
-    "open_issues_count": 6,
-    "forks_count": 61
+    "stargazers_count": 774,
+    "open_issues_count": 4,
+    "forks_count": 60
   }
 ]
