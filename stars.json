@@ -1,26 +1,26 @@
 [
   {
     "full_name": "sudheerj/javascript-interview-questions",
-    "stargazers_count": 18567,
+    "stargazers_count": 18588,
     "open_issues_count": 2,
-    "forks_count": 5404
+    "forks_count": 5417
   },
   {
     "full_name": "react-icons/react-icons",
-    "stargazers_count": 10414,
+    "stargazers_count": 10422,
     "open_issues_count": 226,
-    "forks_count": 687
+    "forks_count": 688
   },
   {
     "full_name": "wix/react-native-navigation",
-    "stargazers_count": 12932,
-    "open_issues_count": 233,
+    "stargazers_count": 12939,
+    "open_issues_count": 234,
     "forks_count": 2705
   },
   {
     "full_name": "wix/react-native-ui-lib",
-    "stargazers_count": 5789,
-    "open_issues_count": 65,
+    "stargazers_count": 5793,
+    "open_issues_count": 67,
     "forks_count": 676
   },
   {
@@ -31,20 +31,20 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3609,
+    "stargazers_count": 3613,
     "open_issues_count": 14,
     "forks_count": 648
   },
   {
     "full_name": "FiberJW/react-native-app-link",
-    "stargazers_count": 549,
+    "stargazers_count": 550,
     "open_issues_count": 10,
     "forks_count": 34
   },
   {
     "full_name": "ritz078/transform",
-    "stargazers_count": 6283,
-    "open_issues_count": 51,
+    "stargazers_count": 6292,
+    "open_issues_count": 50,
     "forks_count": 454
   },
   {
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 11576,
-    "open_issues_count": 19,
-    "forks_count": 1448
+    "stargazers_count": 11587,
+    "open_issues_count": 20,
+    "forks_count": 1454
   },
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 232,
-    "open_issues_count": 165,
-    "forks_count": 127
+    "stargazers_count": 236,
+    "open_issues_count": 172,
+    "forks_count": 131
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 42775,
+    "stargazers_count": 42811,
     "open_issues_count": 1,
-    "forks_count": 3964
+    "forks_count": 3967
   },
   {
     "full_name": "typescript-cheatsheets/react-native",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "tolu360/react-native-paystack",
-    "stargazers_count": 151,
+    "stargazers_count": 152,
     "open_issues_count": 29,
     "forks_count": 43
   },
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "emeraldsanto/react-native-encrypted-storage",
-    "stargazers_count": 551,
+    "stargazers_count": 554,
     "open_issues_count": 41,
     "forks_count": 58
   },
   {
     "full_name": "academind/react-native-practical-guide-code",
-    "stargazers_count": 891,
+    "stargazers_count": 896,
     "open_issues_count": 18,
-    "forks_count": 1102
+    "forks_count": 1106
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 101265,
+    "stargazers_count": 101516,
     "open_issues_count": 26,
-    "forks_count": 12969
+    "forks_count": 12990
   },
   {
     "full_name": "imbhargav5/rooks",
-    "stargazers_count": 3034,
+    "stargazers_count": 3038,
     "open_issues_count": 8,
-    "forks_count": 210
+    "forks_count": 213
   },
   {
     "full_name": "hokagedemehin/DMA-project",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 4249,
+    "stargazers_count": 4255,
     "open_issues_count": 23,
-    "forks_count": 434
+    "forks_count": 435
   },
   {
     "full_name": "hokagedemehin/hot",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "CynthiaPeter/Technical-Writing-Resources",
-    "stargazers_count": 612,
+    "stargazers_count": 615,
     "open_issues_count": 5,
     "forks_count": 123
   },
   {
     "full_name": "michalsnik/aos",
-    "stargazers_count": 24670,
+    "stargazers_count": 24701,
     "open_issues_count": 345,
-    "forks_count": 2506
+    "forks_count": 2508
   },
   {
     "full_name": "Evavic44/portfolio-ideas",
-    "stargazers_count": 2710,
+    "stargazers_count": 2717,
     "open_issues_count": 1,
-    "forks_count": 429
+    "forks_count": 432
   },
   {
     "full_name": "rzashakeri/beautify-github-profile",
-    "stargazers_count": 10060,
+    "stargazers_count": 10062,
     "open_issues_count": 0,
-    "forks_count": 461
+    "forks_count": 460
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 99267,
-    "open_issues_count": 1979,
-    "forks_count": 27629
+    "stargazers_count": 99334,
+    "open_issues_count": 1946,
+    "forks_count": 27650
   },
   {
     "full_name": "mui/material-ui",
-    "stargazers_count": 89504,
-    "open_issues_count": 1664,
-    "forks_count": 30612
+    "stargazers_count": 89549,
+    "open_issues_count": 1669,
+    "forks_count": 30641
   }
 ]
