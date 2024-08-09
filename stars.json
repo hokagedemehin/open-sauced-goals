@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "venkatmcajj/react-country-state-city",
+    "stargazers_count": 7,
+    "open_issues_count": 2,
+    "forks_count": 4
+  },
+  {
+    "full_name": "vitalik/django-ninja",
+    "stargazers_count": 6778,
+    "open_issues_count": 335,
+    "forks_count": 409
+  },
+  {
     "full_name": "blackgirlbytes/LunaFocus",
     "stargazers_count": 4,
     "open_issues_count": 3,
@@ -19,8 +31,8 @@
   },
   {
     "full_name": "MarceloPrado/flash-calendar",
-    "stargazers_count": 848,
-    "open_issues_count": 10,
+    "stargazers_count": 855,
+    "open_issues_count": 9,
     "forks_count": 23
   },
   {
@@ -31,33 +43,33 @@
   },
   {
     "full_name": "Flutterwave/Python-v2",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 11,
     "forks_count": 11
   },
   {
     "full_name": "sudheerj/javascript-interview-questions",
-    "stargazers_count": 23199,
+    "stargazers_count": 23236,
     "open_issues_count": 3,
-    "forks_count": 6622
+    "forks_count": 6642
   },
   {
     "full_name": "react-icons/react-icons",
-    "stargazers_count": 11375,
-    "open_issues_count": 207,
-    "forks_count": 736
+    "stargazers_count": 11385,
+    "open_issues_count": 205,
+    "forks_count": 735
   },
   {
     "full_name": "wix/react-native-navigation",
-    "stargazers_count": 13020,
-    "open_issues_count": 273,
-    "forks_count": 2675
+    "stargazers_count": 13021,
+    "open_issues_count": 275,
+    "forks_count": 2676
   },
   {
     "full_name": "wix/react-native-ui-lib",
-    "stargazers_count": 6353,
-    "open_issues_count": 112,
-    "forks_count": 699
+    "stargazers_count": 6360,
+    "open_issues_count": 116,
+    "forks_count": 698
   },
   {
     "full_name": "sklarsa/django-sendgrid-v5",
@@ -67,7 +79,7 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3825,
+    "stargazers_count": 3828,
     "open_issues_count": 9,
     "forks_count": 699
   },
@@ -79,9 +91,9 @@
   },
   {
     "full_name": "ritz078/transform",
-    "stargazers_count": 7721,
+    "stargazers_count": 7736,
     "open_issues_count": 65,
-    "forks_count": 554
+    "forks_count": 557
   },
   {
     "full_name": "TechIsHiring/techishiring-website",
@@ -91,21 +103,21 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 13287,
-    "open_issues_count": 32,
-    "forks_count": 1645
+    "stargazers_count": 13304,
+    "open_issues_count": 34,
+    "forks_count": 1648
   },
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 398,
-    "open_issues_count": 329,
-    "forks_count": 209
+    "stargazers_count": 401,
+    "open_issues_count": 330,
+    "forks_count": 208
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 44690,
-    "open_issues_count": 4,
-    "forks_count": 4066
+    "stargazers_count": 44703,
+    "open_issues_count": 3,
+    "forks_count": 4063
   },
   {
     "full_name": "typescript-cheatsheets/react-native",
@@ -133,21 +145,21 @@
   },
   {
     "full_name": "academind/react-native-practical-guide-code",
-    "stargazers_count": 1214,
+    "stargazers_count": 1219,
     "open_issues_count": 21,
-    "forks_count": 1273
+    "forks_count": 1274
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 114931,
+    "stargazers_count": 115022,
     "open_issues_count": 41,
-    "forks_count": 14410
+    "forks_count": 14417
   },
   {
     "full_name": "imbhargav5/rooks",
-    "stargazers_count": 3171,
+    "stargazers_count": 3172,
     "open_issues_count": 8,
-    "forks_count": 217
+    "forks_count": 216
   },
   {
     "full_name": "hokagedemehin/DMA-project",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 4682,
+    "stargazers_count": 4685,
     "open_issues_count": 27,
-    "forks_count": 444
+    "forks_count": 445
   },
   {
     "full_name": "hokagedemehin/hot",
     "stargazers_count": 3,
     "open_issues_count": 1,
     "forks_count": 2
-  },
-  {
-    "full_name": "hokagedemehin/luvely-words-backend",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "hokagedemehin/luvely-words",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
