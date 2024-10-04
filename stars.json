@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "sindresorhus/awesome-electron",
+    "stargazers_count": 25733,
+    "open_issues_count": 7,
+    "forks_count": 2024
+  },
+  {
     "full_name": "roninoss/create-expo-stack",
-    "stargazers_count": 1399,
-    "open_issues_count": 9,
-    "forks_count": 78
+    "stargazers_count": 1408,
+    "open_issues_count": 10,
+    "forks_count": 79
   },
   {
     "full_name": "mrzachnugent/react-native-reusables",
-    "stargazers_count": 3214,
+    "stargazers_count": 3232,
     "open_issues_count": 17,
     "forks_count": 132
   },
@@ -15,13 +21,13 @@
     "full_name": "venkatmcajj/react-country-state-city",
     "stargazers_count": 13,
     "open_issues_count": 1,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "vitalik/django-ninja",
-    "stargazers_count": 7034,
-    "open_issues_count": 347,
-    "forks_count": 421
+    "stargazers_count": 7047,
+    "open_issues_count": 351,
+    "forks_count": 422
   },
   {
     "full_name": "blackgirlbytes/LunaFocus",
@@ -43,8 +49,8 @@
   },
   {
     "full_name": "MarceloPrado/flash-calendar",
-    "stargazers_count": 954,
-    "open_issues_count": 11,
+    "stargazers_count": 958,
+    "open_issues_count": 8,
     "forks_count": 27
   },
   {
@@ -61,27 +67,27 @@
   },
   {
     "full_name": "sudheerj/javascript-interview-questions",
-    "stargazers_count": 23777,
+    "stargazers_count": 23807,
     "open_issues_count": 4,
-    "forks_count": 6783
+    "forks_count": 6794
   },
   {
     "full_name": "react-icons/react-icons",
-    "stargazers_count": 11524,
+    "stargazers_count": 11538,
     "open_issues_count": 194,
-    "forks_count": 743
+    "forks_count": 745
   },
   {
     "full_name": "wix/react-native-navigation",
     "stargazers_count": 13036,
-    "open_issues_count": 288,
+    "open_issues_count": 289,
     "forks_count": 2669
   },
   {
     "full_name": "wix/react-native-ui-lib",
-    "stargazers_count": 6459,
-    "open_issues_count": 101,
-    "forks_count": 706
+    "stargazers_count": 6468,
+    "open_issues_count": 104,
+    "forks_count": 707
   },
   {
     "full_name": "sklarsa/django-sendgrid-v5",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3858,
+    "stargazers_count": 3859,
     "open_issues_count": 11,
-    "forks_count": 701
+    "forks_count": 703
   },
   {
     "full_name": "FiberJW/react-native-app-link",
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "ritz078/transform",
-    "stargazers_count": 7934,
+    "stargazers_count": 7942,
     "open_issues_count": 67,
     "forks_count": 581
   },
@@ -115,25 +121,25 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 13531,
+    "stargazers_count": 13548,
     "open_issues_count": 39,
-    "forks_count": 1679
+    "forks_count": 1683
   },
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 413,
-    "open_issues_count": 323,
-    "forks_count": 221
+    "stargazers_count": 414,
+    "open_issues_count": 322,
+    "forks_count": 222
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 45131,
-    "open_issues_count": 4,
-    "forks_count": 4098
+    "stargazers_count": 45177,
+    "open_issues_count": 1,
+    "forks_count": 4107
   },
   {
     "full_name": "typescript-cheatsheets/react-native",
-    "stargazers_count": 270,
+    "stargazers_count": 271,
     "open_issues_count": 1,
     "forks_count": 35
   },
@@ -153,30 +159,24 @@
     "full_name": "emeraldsanto/react-native-encrypted-storage",
     "stargazers_count": 571,
     "open_issues_count": 41,
-    "forks_count": 74
+    "forks_count": 75
   },
   {
     "full_name": "academind/react-native-practical-guide-code",
-    "stargazers_count": 1275,
+    "stargazers_count": 1279,
     "open_issues_count": 21,
-    "forks_count": 1299
+    "forks_count": 1302
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 117536,
-    "open_issues_count": 42,
-    "forks_count": 14611
+    "stargazers_count": 117646,
+    "open_issues_count": 44,
+    "forks_count": 14623
   },
   {
     "full_name": "imbhargav5/rooks",
-    "stargazers_count": 3191,
+    "stargazers_count": 3192,
     "open_issues_count": 7,
     "forks_count": 216
-  },
-  {
-    "full_name": "hokagedemehin/DMA-project",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
   }
 ]
