@@ -1,44 +1,44 @@
 [
   {
     "full_name": "ant-design/ant-design-mobile-rn",
-    "stargazers_count": 3074,
+    "stargazers_count": 3080,
     "open_issues_count": 38,
     "forks_count": 611
   },
   {
     "full_name": "ant-design/ant-design-mobile",
-    "stargazers_count": 11646,
-    "open_issues_count": 226,
-    "forks_count": 2403
+    "stargazers_count": 11649,
+    "open_issues_count": 227,
+    "forks_count": 2402
   },
   {
     "full_name": "sindresorhus/awesome-electron",
-    "stargazers_count": 25822,
+    "stargazers_count": 25834,
     "open_issues_count": 7,
     "forks_count": 2022
   },
   {
     "full_name": "roninoss/create-expo-stack",
-    "stargazers_count": 1493,
-    "open_issues_count": 12,
-    "forks_count": 84
+    "stargazers_count": 1503,
+    "open_issues_count": 10,
+    "forks_count": 85
   },
   {
     "full_name": "mrzachnugent/react-native-reusables",
-    "stargazers_count": 3530,
-    "open_issues_count": 11,
-    "forks_count": 149
+    "stargazers_count": 3583,
+    "open_issues_count": 12,
+    "forks_count": 151
   },
   {
     "full_name": "venkatmcajj/react-country-state-city",
     "stargazers_count": 14,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "vitalik/django-ninja",
-    "stargazers_count": 7198,
-    "open_issues_count": 353,
+    "stargazers_count": 7209,
+    "open_issues_count": 354,
     "forks_count": 426
   },
   {
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "MarceloPrado/flash-calendar",
-    "stargazers_count": 1049,
+    "stargazers_count": 1051,
     "open_issues_count": 10,
     "forks_count": 31
   },
   {
     "full_name": "Flutterwave/React-v3",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 7,
     "forks_count": 10
   },
@@ -79,25 +79,25 @@
   },
   {
     "full_name": "sudheerj/javascript-interview-questions",
-    "stargazers_count": 24035,
+    "stargazers_count": 24057,
     "open_issues_count": 3,
-    "forks_count": 6856
+    "forks_count": 6865
   },
   {
     "full_name": "react-icons/react-icons",
-    "stargazers_count": 11609,
+    "stargazers_count": 11622,
     "open_issues_count": 201,
     "forks_count": 754
   },
   {
     "full_name": "wix/react-native-navigation",
     "stargazers_count": 13042,
-    "open_issues_count": 290,
-    "forks_count": 2669
+    "open_issues_count": 291,
+    "forks_count": 2667
   },
   {
     "full_name": "wix/react-native-ui-lib",
-    "stargazers_count": 6533,
+    "stargazers_count": 6539,
     "open_issues_count": 92,
     "forks_count": 712
   },
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3864,
+    "stargazers_count": 3866,
     "open_issues_count": 13,
-    "forks_count": 708
+    "forks_count": 709
   },
   {
     "full_name": "FiberJW/react-native-app-link",
-    "stargazers_count": 570,
+    "stargazers_count": 571,
     "open_issues_count": 10,
     "forks_count": 34
   },
   {
     "full_name": "ritz078/transform",
-    "stargazers_count": 8034,
+    "stargazers_count": 8044,
     "open_issues_count": 67,
-    "forks_count": 593
+    "forks_count": 595
   },
   {
     "full_name": "TechIsHiring/techishiring-website",
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 13685,
+    "stargazers_count": 13706,
     "open_issues_count": 40,
-    "forks_count": 1703
+    "forks_count": 1706
   },
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 422,
-    "open_issues_count": 319,
+    "stargazers_count": 423,
+    "open_issues_count": 320,
     "forks_count": 224
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 45380,
+    "stargazers_count": 45403,
     "open_issues_count": 1,
     "forks_count": 4121
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "academind/react-native-practical-guide-code",
-    "stargazers_count": 1303,
-    "open_issues_count": 22,
-    "forks_count": 1314
+    "stargazers_count": 1305,
+    "open_issues_count": 21,
+    "forks_count": 1316
   }
 ]
