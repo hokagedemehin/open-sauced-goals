@@ -1,39 +1,39 @@
 [
   {
     "full_name": "highcharts/highcharts-react-native",
-    "stargazers_count": 105,
+    "stargazers_count": 106,
     "open_issues_count": 32,
     "forks_count": 80
   },
   {
     "full_name": "ant-design/ant-design-mobile-rn",
-    "stargazers_count": 3157,
+    "stargazers_count": 3161,
     "open_issues_count": 29,
     "forks_count": 618
   },
   {
     "full_name": "ant-design/ant-design-mobile",
-    "stargazers_count": 11750,
-    "open_issues_count": 243,
-    "forks_count": 2439
+    "stargazers_count": 11755,
+    "open_issues_count": 244,
+    "forks_count": 2441
   },
   {
     "full_name": "sindresorhus/awesome-electron",
-    "stargazers_count": 26194,
+    "stargazers_count": 26207,
     "open_issues_count": 8,
     "forks_count": 2029
   },
   {
     "full_name": "roninoss/create-expo-stack",
-    "stargazers_count": 1918,
+    "stargazers_count": 1929,
     "open_issues_count": 15,
-    "forks_count": 96
+    "forks_count": 97
   },
   {
     "full_name": "mrzachnugent/react-native-reusables",
-    "stargazers_count": 5206,
+    "stargazers_count": 5253,
     "open_issues_count": 32,
-    "forks_count": 190
+    "forks_count": 191
   },
   {
     "full_name": "venkatmcajj/react-country-state-city",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "vitalik/django-ninja",
-    "stargazers_count": 7856,
-    "open_issues_count": 383,
-    "forks_count": 471
+    "stargazers_count": 7873,
+    "open_issues_count": 384,
+    "forks_count": 472
   },
   {
     "full_name": "blackgirlbytes/LunaFocus",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "MarceloPrado/flash-calendar",
-    "stargazers_count": 1199,
+    "stargazers_count": 1204,
     "open_issues_count": 15,
     "forks_count": 40
   },
@@ -85,37 +85,37 @@
   },
   {
     "full_name": "sudheerj/javascript-interview-questions",
-    "stargazers_count": 25230,
+    "stargazers_count": 25263,
     "open_issues_count": 4,
-    "forks_count": 7145
+    "forks_count": 7146
   },
   {
     "full_name": "react-icons/react-icons",
-    "stargazers_count": 11928,
+    "stargazers_count": 11942,
     "open_issues_count": 203,
     "forks_count": 767
   },
   {
     "full_name": "wix/react-native-navigation",
-    "stargazers_count": 13077,
-    "open_issues_count": 252,
-    "forks_count": 2666
+    "stargazers_count": 13079,
+    "open_issues_count": 251,
+    "forks_count": 2665
   },
   {
     "full_name": "wix/react-native-ui-lib",
-    "stargazers_count": 6719,
-    "open_issues_count": 64,
+    "stargazers_count": 6727,
+    "open_issues_count": 65,
     "forks_count": 728
   },
   {
     "full_name": "sklarsa/django-sendgrid-v5",
-    "stargazers_count": 326,
+    "stargazers_count": 329,
     "open_issues_count": 1,
     "forks_count": 55
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3934,
+    "stargazers_count": 3933,
     "open_issues_count": 9,
     "forks_count": 723
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "ritz078/transform",
-    "stargazers_count": 8459,
+    "stargazers_count": 8472,
     "open_issues_count": 74,
     "forks_count": 627
   },
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 14418,
-    "open_issues_count": 42,
-    "forks_count": 1796
+    "stargazers_count": 14446,
+    "open_issues_count": 41,
+    "forks_count": 1803
   },
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 444,
+    "stargazers_count": 445,
     "open_issues_count": 328,
     "forks_count": 231
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 46032,
+    "stargazers_count": 46049,
     "open_issues_count": 6,
-    "forks_count": 4180
+    "forks_count": 4181
   },
   {
     "full_name": "typescript-cheatsheets/react-native",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "tolu360/react-native-paystack",
-    "stargazers_count": 170,
+    "stargazers_count": 171,
     "open_issues_count": 34,
     "forks_count": 49
   },
@@ -177,6 +177,6 @@
     "full_name": "emeraldsanto/react-native-encrypted-storage",
     "stargazers_count": 576,
     "open_issues_count": 41,
-    "forks_count": 77
+    "forks_count": 78
   }
 ]
