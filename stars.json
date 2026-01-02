@@ -1,8 +1,8 @@
 [
   {
     "full_name": "callstack/repack",
-    "stargazers_count": 1843,
-    "open_issues_count": 26,
+    "stargazers_count": 1845,
+    "open_issues_count": 28,
     "forks_count": 153
   },
   {
@@ -31,20 +31,20 @@
   },
   {
     "full_name": "sindresorhus/awesome-electron",
-    "stargazers_count": 26879,
+    "stargazers_count": 26885,
     "open_issues_count": 4,
     "forks_count": 2031
   },
   {
     "full_name": "roninoss/create-expo-stack",
-    "stargazers_count": 2468,
+    "stargazers_count": 2472,
     "open_issues_count": 22,
     "forks_count": 110
   },
   {
     "full_name": "founded-labs/react-native-reusables",
-    "stargazers_count": 7662,
-    "open_issues_count": 20,
+    "stargazers_count": 7679,
+    "open_issues_count": 21,
     "forks_count": 277
   },
   {
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "vitalik/django-ninja",
-    "stargazers_count": 8811,
-    "open_issues_count": 190,
-    "forks_count": 551
+    "stargazers_count": 8823,
+    "open_issues_count": 192,
+    "forks_count": 550
   },
   {
     "full_name": "blackgirlbytes/LunaFocus",
@@ -87,7 +87,7 @@
     "full_name": "Flutterwave/React-v3",
     "stargazers_count": 26,
     "open_issues_count": 9,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "Flutterwave/Python-v2",
@@ -97,26 +97,26 @@
   },
   {
     "full_name": "sudheerj/javascript-interview-questions",
-    "stargazers_count": 26854,
+    "stargazers_count": 26860,
     "open_issues_count": 14,
-    "forks_count": 7532
+    "forks_count": 7534
   },
   {
     "full_name": "react-icons/react-icons",
-    "stargazers_count": 12440,
+    "stargazers_count": 12439,
     "open_issues_count": 228,
     "forks_count": 802
   },
   {
     "full_name": "wix/react-native-navigation",
-    "stargazers_count": 13159,
-    "open_issues_count": 245,
+    "stargazers_count": 13158,
+    "open_issues_count": 233,
     "forks_count": 2667
   },
   {
     "full_name": "wix/react-native-ui-lib",
     "stargazers_count": 7059,
-    "open_issues_count": 74,
+    "open_issues_count": 77,
     "forks_count": 748
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 4108,
+    "stargazers_count": 4109,
     "open_issues_count": 10,
     "forks_count": 746
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "ritz078/transform",
-    "stargazers_count": 9027,
+    "stargazers_count": 9035,
     "open_issues_count": 83,
-    "forks_count": 680
+    "forks_count": 681
   },
   {
     "full_name": "TechIsHiring/techishiring-website",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 15869,
-    "open_issues_count": 44,
-    "forks_count": 2089
+    "stargazers_count": 15889,
+    "open_issues_count": 43,
+    "forks_count": 2094
   },
   {
     "full_name": "open-sauced/app",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 46860,
+    "stargazers_count": 46865,
     "open_issues_count": 0,
-    "forks_count": 4272
+    "forks_count": 4271
   },
   {
     "full_name": "typescript-cheatsheets/react-native",
