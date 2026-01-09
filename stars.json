@@ -1,8 +1,8 @@
 [
   {
     "full_name": "callstack/repack",
-    "stargazers_count": 1846,
-    "open_issues_count": 28,
+    "stargazers_count": 1845,
+    "open_issues_count": 29,
     "forks_count": 153
   },
   {
@@ -19,45 +19,45 @@
   },
   {
     "full_name": "ant-design/ant-design-mobile-rn",
-    "stargazers_count": 3297,
-    "open_issues_count": 44,
+    "stargazers_count": 3299,
+    "open_issues_count": 42,
     "forks_count": 620
   },
   {
     "full_name": "ant-design/ant-design-mobile",
-    "stargazers_count": 11941,
-    "open_issues_count": 295,
-    "forks_count": 2492
+    "stargazers_count": 11943,
+    "open_issues_count": 293,
+    "forks_count": 2497
   },
   {
     "full_name": "sindresorhus/awesome-electron",
-    "stargazers_count": 26895,
+    "stargazers_count": 26894,
     "open_issues_count": 4,
-    "forks_count": 2032
+    "forks_count": 2031
   },
   {
     "full_name": "roninoss/create-expo-stack",
-    "stargazers_count": 2473,
+    "stargazers_count": 2475,
     "open_issues_count": 22,
     "forks_count": 108
   },
   {
     "full_name": "founded-labs/react-native-reusables",
-    "stargazers_count": 7690,
+    "stargazers_count": 7706,
     "open_issues_count": 21,
-    "forks_count": 278
+    "forks_count": 277
   },
   {
     "full_name": "venkatmcajj/react-country-state-city",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 6,
     "forks_count": 21
   },
   {
     "full_name": "vitalik/django-ninja",
-    "stargazers_count": 8827,
+    "stargazers_count": 8835,
     "open_issues_count": 195,
-    "forks_count": 552
+    "forks_count": 553
   },
   {
     "full_name": "blackgirlbytes/LunaFocus",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "MarceloPrado/flash-calendar",
-    "stargazers_count": 1407,
+    "stargazers_count": 1415,
     "open_issues_count": 12,
     "forks_count": 52
   },
@@ -97,27 +97,27 @@
   },
   {
     "full_name": "sudheerj/javascript-interview-questions",
-    "stargazers_count": 26890,
+    "stargazers_count": 26912,
     "open_issues_count": 14,
-    "forks_count": 7538
+    "forks_count": 7547
   },
   {
     "full_name": "react-icons/react-icons",
     "stargazers_count": 12437,
-    "open_issues_count": 228,
-    "forks_count": 803
+    "open_issues_count": 230,
+    "forks_count": 804
   },
   {
     "full_name": "wix/react-native-navigation",
-    "stargazers_count": 13158,
+    "stargazers_count": 13157,
     "open_issues_count": 232,
-    "forks_count": 2665
+    "forks_count": 2664
   },
   {
     "full_name": "wix/react-native-ui-lib",
-    "stargazers_count": 7060,
-    "open_issues_count": 79,
-    "forks_count": 748
+    "stargazers_count": 7059,
+    "open_issues_count": 75,
+    "forks_count": 747
   },
   {
     "full_name": "sklarsa/django-sendgrid-v5",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "ritz078/transform",
-    "stargazers_count": 9037,
+    "stargazers_count": 9038,
     "open_issues_count": 83,
-    "forks_count": 682
+    "forks_count": 686
   },
   {
     "full_name": "TechIsHiring/techishiring-website",
@@ -151,21 +151,21 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 15917,
+    "stargazers_count": 15945,
     "open_issues_count": 42,
-    "forks_count": 2101
+    "forks_count": 2102
   },
   {
     "full_name": "open-sauced/app",
     "stargazers_count": 462,
     "open_issues_count": 328,
-    "forks_count": 229
+    "forks_count": 230
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 46874,
+    "stargazers_count": 46882,
     "open_issues_count": 0,
-    "forks_count": 4271
+    "forks_count": 4273
   },
   {
     "full_name": "typescript-cheatsheets/react-native",
